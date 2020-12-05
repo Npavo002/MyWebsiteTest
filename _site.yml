@@ -1,0 +1,16 @@
+name: "my-website"
+output_dir: "docs"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "EvoGeno!"
+      href: practice.html
+output:
+  html_document:
+    theme: cerulean
+    include: 
+      after_body: my_footer.html
