@@ -1,0 +1,5 @@
+---
+title: "About The Author"
+---
+
+Narciso received his B.A. from Florida International University where he began his journey in academic research. He got his start in an infant and primate motor development lab and went on to widen his horizons by interning at an educational neuroscience lab at the University of Alabama. Currently, Narciso is pursuing his Ph.D. in Neuroscience and Behavior as joint member of the Pak lab and Dr. Sun’s Laboratory for Multiscale Bioengineering and Mechanobiology. His research interests include characterizing the spatiotemporal dynamicity of neurogenesis and engineering new methods for the optimization of tissue culturing and organogenesis.

@@ -1,0 +1,5 @@
+---
+title: "EvoGeno Lab"
+---
+
+Link to Github repository containing all lab assignments: https://npavo002.github.io/genomics-course/
